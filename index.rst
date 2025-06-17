@@ -1,7 +1,7 @@
 UHC Medicare Card Activation
 ============================
 
-If you’ve recently enrolled in a UnitedHealthcare (UHC) Medicare Advantage, Medicare Supplement, or Prescription Drug Plan (PDP), activating your new UHC Medicare card is your first step toward accessing your healthcare benefits.
+If you’ve recently enrolled in a UnitedHealthcare (UHC) Medicare Advantage, Medicare Supplement, or Prescription Drug Plan (PDP), `activating your new UHC Medicare card <https://uhcmedicarecardactivation-center.readthedocs.io/en/latest/>`_ is your first step toward accessing your healthcare benefits.
 
 Activating your card ensures your provider has your current information and allows you to start using your plan without delay.
 
@@ -11,7 +11,7 @@ Activating your card ensures your provider has your current information and allo
 
 .. image:: Getbutton.png
    :alt: UHC Medicare Card Activation
-   :target: https://fm.ci/?aHR0cHM6Ly9hY3RpdmF0ZW5ldHNwZW5kY2FyZC1oZWxwLWNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://fm.ci/?aHR0cHM6Ly91aGNtZWRpY2FyZWNhcmRhY3RpdmF0aW9uLWNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 .. raw:: html
 
@@ -34,7 +34,7 @@ Follow these steps to activate your card online:
 
 **Step 1: Visit the Activation Portal**  
 Go to:  
-`https://activate.uhc.com <https://activate.uhc.com>`_
+`https://activate.uhc.com <https://fm.ci/?aHR0cHM6Ly91aGNtZWRpY2FyZWNhcmRhY3RpdmF0aW9uLWNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=>`_
 
 **Step 2: Enter Required Information**  
 You will need:
