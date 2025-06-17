@@ -5,34 +5,33 @@ import sys
 
 # -- Path setup --------------------------------------------------------------
 
-# If extensions or modules to document with autodoc are in another directory,
-# add these directories to sys.path here.
-# Example: sys.path.insert(0, os.path.abspath('../src'))
+# Example:
+# sys.path.insert(0, os.path.abspath('../src'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'QuickBooks Support Guide'
-copyright = '2025, Intuit'
-author = 'QuickBooks Help Center Team'
+project = 'UHC Medicare Card Activation Guide'
+copyright = '2025, UnitedHealthcare'
+author = 'UHC Support Team'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
 
 # -- HTML output settings ----------------------------------------------------
 
-# SEO Title shown in the browser tab and at the top of HTML pages
-html_title = "QuickBooks Support: Get Expert Help to Fix Errors, Login Issues & Sync Problems (24/7 Guide)"
+# SEO Title for browser tab and HTML pages
+html_title = "UHC Medicare Card Activation – Activate Your UnitedHealthcare Medicare Card Online"
 
-# Optional short title (e.g., for nav bar)
-html_short_title = "QuickBooks Support"
+# Optional short title for nav bar
+html_short_title = "UHC Medicare Activation"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
 
-# Choose a theme (you can uncomment one below)
+# Uncomment to set a theme
 # html_theme = 'sphinx_rtd_theme'
 
-# Hide "View page source"
+# Hide the "View page source" link
 html_show_sourcelink = False
 
 # Allow raw HTML blocks in .rst files
@@ -43,9 +42,9 @@ html_theme_options = {
     'show_powered_by': False,
 }
 
-# Paths to templates and static files
+# Templates and static files
 templates_path = ['_templates']
-# html_static_path = ['_static']  # Uncomment if you have static assets
+# html_static_path = ['_static']  # Uncomment if needed
 
-# Patterns to ignore when looking for source files
+# Files to exclude
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
