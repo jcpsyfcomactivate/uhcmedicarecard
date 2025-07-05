@@ -11,7 +11,7 @@ Activating your card ensures your provider has your current information and allo
 
 .. image:: Getbutton.png
    :alt: UHC Medicare Card Activation
-   :target: https://fm.ci/?aHR0cHM6Ly91aGNtZWRpY2FyZWNhcmRhY3RpdmF0aW9uLWNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://activateuhccom.wixsite.com/uhccard
 
 .. raw:: html
 
